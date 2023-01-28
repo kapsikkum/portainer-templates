@@ -16484,7 +16484,7 @@
                 {
                     "name": "TZ",
                     "label": "TZ",
-                    "default": "America/Los_Angeles"
+                    "default": "Australia/Sydney"
                 }
             ],
             "labels": [
@@ -16584,7 +16584,7 @@
                 {
                     "name": "TZ",
                     "label": "TZ",
-                    "default": "America/Los_Angeles"
+                    "default": "Australia/Sydney"
                 }
             ],
             "labels": [
@@ -16644,7 +16644,7 @@
                 {
                     "name": "TZ",
                     "label": "TZ",
-                    "default": "America/Los_Angeles"
+                    "default": "Australia/Sydney"
                 }
             ],
             "labels": [
@@ -16920,7 +16920,7 @@
                 {
                     "name": "TZ",
                     "label": "TZ",
-                    "default": "America/Los_Angeles"
+                    "default": "Australia/Sydney"
                 },
                 {
                     "name": "VERSION",
@@ -17043,7 +17043,7 @@
                 {
                     "name": "TZ",
                     "label": "TZ",
-                    "default": "America/Los_Angeles"
+                    "default": "Australia/Sydney"
                 },
                 {
                     "name": "PUBLICHOST",
@@ -17126,7 +17126,7 @@
                 {
                     "name": "TZ",
                     "label": "TZ",
-                    "default": "America/Los_Angeles"
+                    "default": "Australia/Sydney"
                 }
             ],
             "labels": [

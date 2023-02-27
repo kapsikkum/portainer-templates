@@ -17674,6 +17674,47 @@
             },
             "title": "NocoDB",
             "type": 3
+        },
+        {
+            "title": "Wizarr",
+            "name": "wizarr",
+            "image": "ghcr.io/wizarrrr/wizarr",
+            "description": "Wizarr is a automatic user invitation system for Plex. Create a unique link and share it to a user and they will automatically be invited to your Plex Server! They will even be guided to download the Plex client and instructions on how to use your requests software!",
+            "categories": [
+                "Media"
+            ],
+            "platform": "linux",
+            "restart_policy": "unless-stopped",
+            "ports": [
+                "5890:5690/tcp"
+            ],
+            "volumes": [
+                {
+                    "container": "/data/database",
+                    "bind": "/portainer/Files/AppData/Config/wizarr/data"
+                }
+            ],
+            "env": [
+                {
+                    "name": "APP_URL",
+                    "default": "https://wizarr.domain.com",
+                    "label": "APP_URL"
+                },
+                {
+                    "name": "DISABLE_BUILTIN_AUTH",
+                    "default": "false",
+                    "label": "DISABLE_BUILTIN_AUTH",
+                    "description": "Set to true ONLY if you are using another auth provider (Authelia, Authentik, etc)"
+                },
+                {
+                    "name": "TZ",
+                    "default": "Australia/Sydney",
+                    "label": "TZ"
+                }
+            ],
+            "logo": "https://github.com/Wizarrrr/wizarr/blob/master/screenshots/wizard.png?raw=true",
+            "network_mode": "bridge",
+            "type": 1
         }
     ]
 }

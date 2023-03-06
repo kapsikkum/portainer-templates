@@ -17715,6 +17715,36 @@
             "logo": "https://github.com/Wizarrrr/wizarr/blob/master/screenshots/wizard.png?raw=true",
             "network_mode": "bridge",
             "type": 1
+        },
+        {
+            "title": "PairDrop",
+            "name": "pairdrop",
+            "image": "lscr.io/linuxserver/pairdrop",
+            "description": "Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop. ",
+            "categories": [
+                "File Sharing"
+            ],
+            "platform": "linux",
+            "restart_policy": "unless-stopped",
+            "ports": [
+                "3000:3000/tcp"
+            ],
+            "env": [
+                {
+                    "name": "RATE_LIMIT",
+                    "default": "false",
+                    "label": "RATE_LIMIT",
+                    "description": "Limits clients to 1000 requests per 5 min"
+                },
+                {
+                    "name": "WS_FALLBACK",
+                    "default": "false",
+                    "label": "WS_FALLBACK",
+                    "description": "Provides PairDrop to clients with an included websocket fallback if the peer to peer WebRTC connection is not available to the client. This is not used on the official https://pairdrop.net, but you can activate it on your self-hosted instance. This is especially useful if you connect to your instance via a VPN as most VPN services block WebRTC completely in order to hide your real IP address. Warning: All traffic sent between devices using this fallback is routed through the server and therefor not peer to peer! Beware that the traffic routed via this fallback is readable by the server. Only ever use this on instances you can trust. Additionally, beware that all traffic using this fallback debits the servers data plan."
+                }
+            ],
+            "logo": "https://github.com/schlagmichdoch/PairDrop/raw/master/public/images/logo_transparent_512x512.png",
+            "type": 1
         }
     ]
 }

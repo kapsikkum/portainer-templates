@@ -17627,12 +17627,16 @@
                     "bind": "/portainer/config/lidar-extended"
                 },
                 {
-                    "container": "/downloads",
+                    "container": "/downloads-lidarr-extended",
                     "bind": "/portainer/mounts/downloads"
                 },
                 {
-                    "container": "/data",
-                    "bind": "/portainer/mounts/media"
+                    "container": "/music",
+                    "bind": "/portainer/mounts/media/Music"
+                },
+                {
+                    "container": "/music-videos",
+                    "bind": "/portainer/mounts/media/Music-Videos"
                 }
             ],
             "env": [

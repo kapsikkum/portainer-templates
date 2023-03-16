@@ -17624,7 +17624,7 @@
             "volumes": [
                 {
                     "container": "/config",
-                    "bind": "/portainer/config/lidar-extended"
+                    "bind": "/portainer/config/lidarr-extended"
                 },
                 {
                     "container": "/downloads-lidarr-extended",

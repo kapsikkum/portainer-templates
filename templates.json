@@ -7573,6 +7573,163 @@
             "restart_policy": "unless-stopped"
         },
         {
+            "title": "Lidarr-extended",
+            "name": "lidarr-extended",
+            "image": "randomninjaatk/lidarr-extended:latest",
+            "description": "Lidarr is a music collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new tracks from your favorite artists and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available.",
+            "platform": "linux",
+            "restart_policy": "unless-stopped",
+            "ports": [
+                "8686:8686/tcp"
+            ],
+            "volumes": [
+                {
+                    "container": "/config",
+                    "bind": "/portainer/config/lidar-extended"
+                },
+                {
+                    "container": "/downloads",
+                    "bind": "/portainer/mounts/downloads"
+                },
+                {
+                    "container": "/data",
+                    "bind": "/portainer/mounts/media"
+                }
+            ],
+            "env": [
+                {
+                    "name": "TZ",
+                    "default": "Australia/Sydney"
+                },
+                {
+                    "name": "PUID",
+                    "default": "1000"
+                },
+                {
+                    "name": "PGID",
+                    "default": "1000"
+                },
+                {
+                    "name": "enableAudioScript",
+                    "default": "true"
+                },
+                {
+                    "name": "enableVideoScript",
+                    "default": "true"
+                },
+                {
+                    "name": "scriptInterval",
+                    "default": "15m"
+                },
+                {
+                    "name": "configureLidarrWithOptimalSettings",
+                    "default": "true"
+                },
+                {
+                    "name": "searchSort",
+                    "default": "date"
+                },
+                {
+                    "name": "audioFormat",
+                    "default": "native"
+                },
+                {
+                    "name": "audioBitrate",
+                    "default": "lossless"
+                },
+                {
+                    "name": "requireQuality",
+                    "default": "true"
+                },
+                {
+                    "name": "enableReplaygainTags",
+                    "default": "true"
+                },
+                {
+                    "name": "audioLyricType",
+                    "default": "both"
+                },
+                {
+                    "name": "dlClientSource",
+                    "default": "both"
+                },
+                {
+                    "name": "arlToken",
+                    "default": ""
+                },
+                {
+                    "name": "tidalCountryCode",
+                    "default": "AU"
+                },
+                {
+                    "name": "addDeezerTopArtists",
+                    "default": "true"
+                },
+                {
+                    "name": "addDeezerTopAlbumArtists",
+                    "default": "true"
+                },
+                {
+                    "name": "addDeezerTopTrackArtists",
+                    "default": "true"
+                },
+                {
+                    "name": "topLimit",
+                    "default": "10"
+                },
+                {
+                    "name": "addRelatedArtists",
+                    "default": "false"
+                },
+                {
+                    "name": "numberOfRelatedArtistsToAddPerArtist",
+                    "default": "5"
+                },
+                {
+                    "name": "lidarrSearchForMissing",
+                    "default": "true"
+                },
+                {
+                    "name": "addFeaturedVideoArtists",
+                    "default": "false"
+                },
+                {
+                    "name": "plexUrl",
+                    "default": ""
+                },
+                {
+                    "name": "plexToken",
+                    "default": ""
+                },
+                {
+                    "name": "youtubeSubtitleLanguage",
+                    "default": "en"
+                },
+                {
+                    "name": "enableQueueCleaner",
+                    "default": "true"
+                },
+                {
+                    "name": "matchDistance",
+                    "default": "5"
+                },
+                {
+                    "name": "enableBeetsTagging",
+                    "default": "true"
+                },
+                {
+                    "name": "beetsMatchPercentage",
+                    "default": "90"
+                },
+                {
+                    "name": "retryNotFound",
+                    "default": "90"
+                }
+            ],
+            "logo": "https://raw.githubusercontent.com/RandomNinjaAtk/docker-lidarr-extended/main/.github/lidarr.png",
+            "type": 1
+        },
+        {
             "type": 1,
             "title": "Limnoria",
             "name": "Limnoria",

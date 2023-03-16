@@ -7736,6 +7736,19 @@
             "labels": []
         },
         {
+            "title": "LunaSea",
+            "name": "LunaSea",
+            "image": "ghcr.io/jagandeepbrar/lunasea:stable",
+            "description": "LunaSea is a fully featured, open source self-hosted controller focused on giving you a seamless experience between all of your self-hosted media software remotely on your devices.",
+            "platform": "linux",
+            "restart_policy": "unless-stopped",
+            "ports": [
+                "8520:80/tcp"
+            ],
+            "logo": "https://github.com/JagandeepBrar/LunaSea/raw/master/assets/icon/icon.png",
+            "type": 1
+        },
+        {
             "type": 1,
             "title": "Lychee",
             "name": "Lychee",

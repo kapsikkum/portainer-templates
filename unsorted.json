@@ -17638,131 +17638,163 @@
             "env": [
                 {
                     "name": "TZ",
-                    "default": "Australia/Sydney"
+                    "default": "Australia/Sydney",
+                    "label": "TZ"
                 },
                 {
                     "name": "PUID",
-                    "default": "1000"
+                    "default": "1000",
+                    "label": "PUID"
                 },
                 {
                     "name": "PGID",
-                    "default": "1000"
+                    "default": "1000",
+                    "label": "PGID"
                 },
                 {
                     "name": "enableAudioScript",
-                    "default": "true"
+                    "default": "true",
+                    "label": "enableAudioScript"
                 },
                 {
                     "name": "enableVideoScript",
-                    "default": "true"
+                    "default": "true",
+                    "label": "enableVideoScript"
                 },
                 {
                     "name": "scriptInterval",
-                    "default": "15m"
+                    "default": "15m",
+                    "label": "scriptInterval"
                 },
                 {
                     "name": "configureLidarrWithOptimalSettings",
-                    "default": "true"
+                    "default": "true",
+                    "label": "configureLidarrWithOptimalSettings"
                 },
                 {
                     "name": "searchSort",
-                    "default": "date"
+                    "default": "date",
+                    "label": "searchSort"
                 },
                 {
                     "name": "audioFormat",
-                    "default": "native"
+                    "default": "native",
+                    "label": "audioFormat"
                 },
                 {
                     "name": "audioBitrate",
-                    "default": "lossless"
+                    "default": "lossless",
+                    "label": "audioBitrate"
                 },
                 {
                     "name": "requireQuality",
-                    "default": "true"
+                    "default": "true",
+                    "label": "requireQuality"
                 },
                 {
                     "name": "enableReplaygainTags",
-                    "default": "true"
+                    "default": "true",
+                    "label": "enableReplaygainTags"
                 },
                 {
                     "name": "audioLyricType",
-                    "default": "both"
+                    "default": "both",
+                    "label": "audioLyricType"
                 },
                 {
                     "name": "dlClientSource",
-                    "default": "both"
+                    "default": "both",
+                    "label": "dlClientSource"
                 },
                 {
                     "name": "arlToken",
-                    "default": ""
+                    "default": "",
+                    "label": "arlToken"
                 },
                 {
                     "name": "tidalCountryCode",
-                    "default": "AU"
+                    "default": "AU",
+                    "label": "tidalCountryCode"
                 },
                 {
                     "name": "addDeezerTopArtists",
-                    "default": "true"
+                    "default": "true",
+                    "label": "addDeezerTopArtists"
                 },
                 {
                     "name": "addDeezerTopAlbumArtists",
-                    "default": "true"
+                    "default": "true",
+                    "label": "addDeezerTopAlbumArtists"
                 },
                 {
                     "name": "addDeezerTopTrackArtists",
-                    "default": "true"
+                    "default": "true",
+                    "label": "addDeezerTopTrackArtists"
                 },
                 {
                     "name": "topLimit",
-                    "default": "10"
+                    "default": "10",
+                    "label": "topLimit"
                 },
                 {
                     "name": "addRelatedArtists",
-                    "default": "false"
+                    "default": "false",
+                    "label": "addRelatedArtists"
                 },
                 {
                     "name": "numberOfRelatedArtistsToAddPerArtist",
-                    "default": "5"
+                    "default": "5",
+                    "label": "numberOfRelatedArtistsToAddPerArtist"
                 },
                 {
                     "name": "lidarrSearchForMissing",
-                    "default": "true"
+                    "default": "true",
+                    "label": "lidarrSearchForMissing"
                 },
                 {
                     "name": "addFeaturedVideoArtists",
-                    "default": "false"
+                    "default": "false",
+                    "label": "addFeaturedVideoArtists"
                 },
                 {
                     "name": "plexUrl",
-                    "default": ""
+                    "default": "",
+                    "label": "plexUrl"
                 },
                 {
                     "name": "plexToken",
-                    "default": ""
+                    "default": "",
+                    "label": "plexToken"
                 },
                 {
                     "name": "youtubeSubtitleLanguage",
-                    "default": "en"
+                    "default": "en",
+                    "label": "youtubeSubtitleLanguage"
                 },
                 {
                     "name": "enableQueueCleaner",
-                    "default": "true"
+                    "default": "true",
+                    "label": "enableQueueCleaner"
                 },
                 {
                     "name": "matchDistance",
-                    "default": "5"
+                    "default": "5",
+                    "label": "matchDistance"
                 },
                 {
                     "name": "enableBeetsTagging",
-                    "default": "true"
+                    "default": "true",
+                    "label": "enableBeetsTagging"
                 },
                 {
                     "name": "beetsMatchPercentage",
-                    "default": "90"
+                    "default": "90",
+                    "label": "beetsMatchPercentage"
                 },
                 {
                     "name": "retryNotFound",
-                    "default": "90"
+                    "default": "90",
+                    "label": "retryNotFound"
                 }
             ],
             "logo": "https://raw.githubusercontent.com/RandomNinjaAtk/docker-lidarr-extended/main/.github/lidarr.png",

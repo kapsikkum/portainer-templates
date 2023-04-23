@@ -3,6 +3,21 @@
     "templates": [
         {
             "categories": [
+                "Finance"
+            ],
+            "description": "Actual is a super fast privacy-focused app for managing your finances. ",
+            "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPcAAABOCAYAAAD8SYDuAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAABARSURBVHgB7Z1NbBvHFcffLEVJkftBJ00TtAdtkKJ1bKeW0QDOJTF9SnKK3aCApaIwfUiTm+RTLwG8AtICOck6Fj2YRlE5bZBaPiU5lXYvMdBCdONITi+mW7QI6jhRG0S2JXGn781yV+RqZz/4Ie2S7wdQJrncXXK9/3lv3rx5I6ADrONLBRjLHwdpHAIhiwCiACBNSCWiBhJq+KQKwr4O9kbFevtwDRimTxGQEBK03JMvCdt42RF0hpGigkK/YC0cLAPD9BmJxD07tXJWivoMiqIA/UUNlT7LImf6iVjitk5+VATDOI9PTehvarAhT1jvHKwCw2QcI+oDZK1R2H+C/hc2YUJeLKnfzDAZR2u5nWDZ6ByAXYLBpGwtHDgNDJNR9OKe+ngJ/5mAwaYKa+vHrMXDq8AwGSPQLbemVqh/PejCJiZgbHgOGCaDbBO3098cWFc8iBL3wZks0uKWW1M30FqLJWC2Y9vHrLefrgDDZASf5RaXgAnGGQpkmMzgiRutdgkGY7irXUxr6iMLGCYjNFluwf3KSIxpNUTIMBlAiZutdmwK8qF8CRgmAziWWxingImFAONlYJgMIKyTSyYYw7eAic/a+l5ObGHSjgFGvghMMmgOO8OkHHTLJWeiJUVy9h6TfgwQuUOQUh4bH4HCt/KQOoRxFBgm5Rgg01kW6dDzBXj9V0/C0VcehfQheTiMST0ULTchhUw8X/D+TaH1NoFhUk5ksYbdwHxqDz7GvNfptN4Mk26GIIX4xUzW+8q7d2D1sw1gtpidXDkljfq5sJp2OC5vnV14ahaYzKOGrcXI+W2FSYU4Z/1u/xn/51NnuckFb7baLkdeehiYVqSwrahilRJsS9XAY7KPMTQTWHFYypmg/+PUWW6dC66s9x8/g/tf1YHBVnzybzTWbsb6sAFF/FuBDNBIqmqZ5yAAanJtfX7gE4eoIdfVTjKE6X8rVeImq+0G0ohPb9+Hx8dH1fPRsRwceeFhFPgdYBCRS5AGq9KLLcgCxvC2YpyS/jyU34t/Z4CJTarccr/V/v3cP6G2sua9fhZd89E9ORh0rJKamVZKsIuZBdfcOrligs4bEYJz+hOSGnH7rXb16iqs3tlQgTQX13oPPOttpL8KwSmzA0ZqxO232tevOt2r2spXbL230YYVE4Jn/g0YqRC3EyHf470mMTcLmq33FirgBKC3wlLUNFsKqXfN6/c586+LpCKgNnG0AIVHt7LQrrz7n5btrvV2h8jIel/74PPBjJyHzeKz4TIY9Sp+KLiqjuOaV6BDvMUgpTiEBy2CsAtOJFeuqsaFHsK+HGclVV90vBjyUdOaXL6kzuFir8/6j0/fTYyNTuMQoOm9KQV+rwfzcVZ17XR/7zjYkApj6KiUcgIj3BOdXKN2SYW4Dz231WBTokqz1XYh622+Ma6eD3TknAprSKnZKBfBHqqAYevETa552xHnJiGisL1z0s3feKrG3PFGppmG2JAYw7S4RTlIhB40dhs3OCjkcd++t8E/CjA2fB6Fedy3H/4ZoZl8xyCKseE56S/tTfuLYTrmE1G7K+9I5M7SeDQeZ6u+cCfXqE123S2nCSJhVtuF+94NccmwZZNzaAWeqoFatTSQtl1zyoaDXJ7KXpcgGSUa3kKrG9yV6P6KscHTceMvN637nPnm1PJ42I7WT5fn1Lp6yZe2pmt0S13jLrLr4i7+eCuQRla7evW/2s8OfN87zCWX0hU2Yl/QHyN5Sa3ZqeVpKexyB0I08Ya/1O2bN00oYUvZ0Tg8XWNtI9gGuyruuFbbhaz3p7cfeK8HznqH1bqTsCVoO7RffTxJBVey9BLkOegCePOeawQE+wpVYLRDYXsIeb5bFXZ3VdxJrLbLtffves8HyXrHccm9zzoro9Q0HyzA6FD8SjLRizFggEjOY4syq/7VR+udc9PEh2ZkzsI/ZfUI35casEXvs/Swh8qQCkLKgqNHhX9OY5/6CedhH8P3LoQcrABjQ11pKHYtoJbUarvc/Mv/4IWfPaaETQxM5Dy2S+5Crrkuap6bhhhR88iS1yTmexuWL+d7xlm8QXduWSTL5O7T+N5qqWSVoSakrlhnzbp44ASkjIgc/0Xr4kH/d67ho4LXaJXq4AfuJXNdqfSza5b72Rcf8Z7rIuTNjOMwGIl6ev77nrAJen7ouW9C3yNgWrut2SV3CXPNGwKD6JOGLVRRxht3Jmgyh7XwtIVfYF63Y1/Vfh+pVxzPBb0Koaw0DkUqAVfBNs5o9xvetLTbRHeqI+2K5aaElcfHR7zX1StOqqmf0TEDjrz0SGQ1Fmoorr3/OfQrjksuQlzpLZfc2wddc7S8KLzAIFihUcG1DNpzqqi6qduON274HHG6edeHAxskIURq6/YlxSqrxi2xG0374RCYbrMJXWBXxL0t1fTPW40/CfrQ83th3zNfa8laC4Pce3Lz3ZTVfkOK/HGh3Rjkknsb0aILjeungnNl0J5TTLR3Tge6ec9O3jgjBAQJeR4GHFoWWo2D95AdF7e/GIM7QYTcbrLQ+575hhJ4EPfXbDUNlPrnFDWfnv+e56JTcK5Z3HQMmi4a5e5nAbR0yVxyFxtdRUPjzgs50dz3DTjnUf0p4TLEYPbiwa5E2bOK8rjq+QLkYUIKKAjboHFyEwy7KKXd81TbHRd3UDGGX/xmn1bQBAn0EwykVdHC3/9qq7W79t7n3vFc6716Zx2K+B5Z/ftrdXjr1U8gy1g/WSJ33NR+QBgh7spmDf1j3UZ33bNgAQp05zWZcAKMGjDb8NJybeMoCVjlBTRua5Uk56b1SQE7wY6K2z+tk/C/diErfe29u45l19RO+xD72VR+ybXex1/7Tst2ep+8hExb7/xQKXS7kHPW5LLOOpuhuzrrnmmsK1kWzU0o6/3Z/+mARqKPJZz88R0TcBg7Im6yyj9Ad/vZF8PHpEnQ1atfoJX+MlKQTt+8oCx5c/Tcj7l/T8Zd88iFB822o6u+YSmmPayplfMqHz0Fgm6mp+KmfvS+Z76O1nlvpNtNySmUgdbsdrd7zCSNRJqJjFh3Ab1rTu6+ZoJKQL2uQaURGCvF+Chdzxpe0ivoEFUbc/K7lmoaRNfF7Q5f0fBUO/3osGPGXaDg8q//BTdR2JnH6P3SylrX3LZvY787cB/sivc8GNQLeuGlhApboogFjoGvbSz6z2uVlhZxqDBb4n58/KGWtNIgSNgX3qxBFGSl3eCYDrdv3tz3PoINS1+IO3x+c3fQuOZos6so7cDGJbyvvoXqh8oA6yTrs40U2Z0lnzeBkks0NPLeTYhJhGe1GJZRFzHO3RW6Lm7lWmOU2hUaiY9uleZ+cViqKQma+slhlp+OSWmoNPTV7Ha7kXMKomU9kBbDJV9tPOJiarc4ucxW81tCyqrOcqsGAYUQNv+YtqsJJ4GHENdhN0ot59V8cK24hTF6KsnYc2gugG2HjuWrIpfr0FN60uemIapxFKjrdr/2yyc9cQelmsZNXAlz5f2R86OvfBtqMbyD1BLmkktRsy7ujywc0AxaiUug6+MF5DJHZLhBYwKIvviBr/Z46/n0AusYQVVOdAFGYxobnXJQo4S/dYIWcIBEp5LaEYUhI3crdOf13q/x3hNxV6hCSqNKStgEkW4Gx8hbaB737gPrXdRvsmMlkbTugpbEMIJvKLTEVIjgjYX9t1s3UM600E8AobJH8sGZZrGonPU9I2dRYCXQsj1dNgbm2cnlmdmL+8O7A7KOXoFR1GzFcefhJTzOrNi0K5DbwMZryFTlkBIKW51KilWdc7MJdZoMYwVtc5YFgjldvLI9VNJRufmdng+F+ad1Ul+YBBgVHCNRqky0f9yPDLi59Iv1jnTJN/Vpo1pGN6toLbSWOPBmHN48Bw9GTmmH2qjskZEnkVe82mb0ngxd4risS12l98O8BUFj+lMfn3K24/nW1o9tC5CFZeU5FOg4kCdVOgk+PlecjhcrYBjadQHjLDYiq+Leg7I3A86tzybqM20VvhAYbdcuOQIlvDZFUFNwxSx6dos9nRXmt9okOspGI8EHCZusNFVbeevnN1XAjQQeV9jO/o71dnGtd+aIcsnfOZjYrXUmOIiK/rgBrjntI5XoIeT7FBq1zUrqEXbT0nztqAknwoj6bRN4IFP9GzAvXQXqRMjvDEPNJ7fj571TgwlSG/dQjcjY8BfW1PItetBz5SG0W9HGjoxTmODUZ5ujFz0Vtz9qHuR6O273qhLzW6/eVC59EkH7IetNInch6509ZEh/rA2XfOu4+n1VkGx7fTUSi5RSP3UxCXU4EzXhBOr12CuSUkAreIPd3veVduxzE9T44WhAjH2oMfJ5P6oCamjRhu1ENCZNmOQl9Ezcfqvth6zyB7/9FOZn/o7j0v/uWt+YhF29slXRhSaPZKkUkzP5P8z6yUVol+GNxdCbwwju56sJILJ+IrJSip5V2BQnrD/sj/zuzhBZPJHppo5aC+jZ2PI0JMLG4bmDZUiIc20SitQpbXwMEuJ4Una834VeTc/E3VyMwYWs9Ifv31VWmh7KynZgpXVc++Cu5+JT45GpKi1CFLXbyCXvYHxY3Rxhbq/UzwSzLv5wUd2QSW9kCvLYxuE4wvbOtfC0pbyFyMZEP8fdEao8HKNBchoeVWAinM21B4F1wKyLB0txGyRVdgmvY6QHo8H5f4jR0IpcoScBNX8xhnaCY51AU0jJxc8k9tA5MDaDrasQ7Vttl7o4DUa91M7xGzdkyTq5YuGBimBQCiW5m8rTwH/dum0SXXm4Lu5tlNvNCCOLiK5lGUZxyEigR2HAVllhtUiAvI1diXLYMZQFB3jCqSVONcKb5pbbQFH1Ctx7UGn5jlSXzdjcfjCZq4b9Fmoc8LqU1XXJwSlQWXyuB0YLEcAV8rpaGmeqHydo5p6PiL61EjglydDvUt6WaCq5jNcFaKj0wKLACFtXA/LEvh99HV5+/bsqc+xDsqI7IOidxlo4kK5ZAgzjoyeW++Zfv4SbWbWcDNMnUJ+7BkxSasAwKcdoWViNiYekZAKGSTcG3qhXgEnKdWCYlINuuehdEn+/0suJDwzTJQwnsYFJRlsTHxhmRzGcxIY2c3EHkRg1uxkmDagMNWl3kq88YITVCWeYFKHELUY2yjET0gcblf6ZPP+YYXYDJW5nOqAc+CVeIkk4a4hhdpOWFEprcvlWt1YY7DvaKG3EMLtJ66ywqIn5g4ywU7c2NMOE0SLuJHNpBwt7tjHDiGEyQ+DMJmvyRhmHx3peED8TSHnBma/LMNkiuFjDyMYMAGdhUSYaC5vJKoHiVqshLBw43EbVjf6Bfvu99cSlcBgmLUQWHLCmPrKoTCsMFNTHji67wzBpJlY1EVqNAaRxqe+HyVThuvrpXVnHimG6TKJSQdbJGyUQaMX7T+SrVK+arTXTT7RVB0yJXBWBC6nUmQWkrEiAy50U8mOYtNJRkT/r5Iqpqj0KmFCVJaXA171dLL4Dal4VSlr8PGDNZIbpJ/4Po+cuMuwZqbUAAAAASUVORK5CYII=",
+            "name": "actual",
+            "platform": "linux",
+            "repository": {
+                "stackfile": "Template/Stack/actual.yml",
+                "url": "https://github.com/xneo1/portainer_templates"
+            },
+            "title": "Actual",
+            "type": 3
+        },
+        {
+            "categories": [
                 "Other"
             ],
             "description": "AdGuard Home is a network-wide software for blocking ads & tracking. After you set it up, it\u2019ll cover ALL your home devices, and you don\u2019t need any client-side software for that. With the rise of Internet-Of-Things and connected devices, it becomes more and more important to be able to control your whole network.",
@@ -51,6 +66,21 @@
                     "container": "/opt/adguardhome/conf"
                 }
             ]
+        },
+        {
+            "categories": [
+                "Adblocking"
+            ],
+            "description": "AdGuard Home is a network-wide software for blocking ads & tracking. After you set it up, it\u2019ll cover ALL your home devices, and you don\u2019t need any client-side software for that. With the rise of Internet-Of-Things and connected devices, it becomes more and more important to be able to control your network.",
+            "logo": "https://raw.githubusercontent.com/xneo1/portainer_templates/master/Images/adguard.png",
+            "name": "adguardhome",
+            "platform": "linux",
+            "repository": {
+                "stackfile": "Template/Stack/adguardhome.yml",
+                "url": "https://github.com/xneo1/portainer_templates"
+            },
+            "title": "Adguard Home",
+            "type": 3
         },
         {
             "type": 1,
@@ -153,7 +183,7 @@
                     "container": "/media"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/Airsonic/",
+                    "bind": "/opt/portainer/Airsonic/",
                     "container": "/config"
                 }
             ]
@@ -175,7 +205,7 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "America/New_York",
+                    "default": "Australia/Sydney",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -207,7 +237,7 @@
                     "container": "/music"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/Airsonic-Advanced/Playlists",
+                    "bind": "/opt/portainer/Airsonic-Advanced/Playlists",
                     "container": "/playlists"
                 },
                 {
@@ -215,11 +245,11 @@
                     "container": "/podcasts"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/Airsonic-Advanced/Media",
+                    "bind": "/opt/portainer/Airsonic-Advanced/Media",
                     "container": "/media"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/Airsonic-Advanced/config/",
+                    "bind": "/opt/portainer/Airsonic-Advanced/config/",
                     "container": "/config"
                 }
             ]
@@ -337,6 +367,23 @@
         },
         {
             "categories": [
+                "Productivity",
+                "Development",
+                "Low-code"
+            ],
+            "description": "Appsmith (www.appsmith.com) is the first open-source low code tool that helps developers build dashboards and admin panels very quickly.",
+            "logo": "https://cdn-images.himalayas.app/vr60veq4neiptamhqm6qxwi3toi3",
+            "name": "appsmith",
+            "platform": "linux",
+            "repository": {
+                "stackfile": "Template/Stack/appsmith.yml",
+                "url": "https://github.com/xneo1/portainer_templates"
+            },
+            "title": "Appsmith",
+            "type": 3
+        },
+        {
+            "categories": [
                 "Development"
             ],
             "description": "Appwrite is a self-hosted backend-as-a-service platform that provides developers with all the core APIs required to build any application.",
@@ -396,7 +443,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/archivebox",
+                    "bind": "/opt/portainer/archivebox",
                     "container": "/data"
                 }
             ]
@@ -485,7 +532,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Audiobookshelf",
+                    "bind": "/opt/portainer/Audiobookshelf",
                     "container": "/config"
                 },
                 {
@@ -528,7 +575,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Authelia",
+                    "bind": "/opt/portainer/Authelia",
                     "container": "/etc/authelia/"
                 }
             ]
@@ -562,6 +609,22 @@
                 "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
             },
             "title": "Authentik",
+            "type": 3
+        },
+        {
+            "categories": [
+                "Download",
+                "Multimedia"
+            ],
+            "description": "Autobrr is the modern download automation tool for torrents.",
+            "logo": "https://autobrr.com/img/logo.png",
+            "name": "autobrr",
+            "platform": "linux",
+            "repository": {
+                "stackfile": "Template/Stack/autobrr.yml",
+                "url": "https://github.com/xneo1/portainer_templates"
+            },
+            "title": "Autobrr",
             "type": 3
         },
         {
@@ -609,6 +672,22 @@
                 }
             ],
             "restart_policy": "unless-stopped"
+        },
+        {
+            "categories": [
+                "Calendar",
+                "Productivity"
+            ],
+            "description": "Ba\u00efkal is a lightweight CalDAV+CardDAV server. It offers an extensive web interface with easy management of users, address books and calendars.",
+            "logo": "https://sabre.io/img/logo.png",
+            "name": "baikal",
+            "platform": "linux",
+            "repository": {
+                "stackfile": "Template/Stack/baikal.yml",
+                "url": "https://github.com/xneo1/portainer_templates"
+            },
+            "title": "Baikal",
+            "type": 3
         },
         {
             "categories": [
@@ -746,7 +825,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Bitwarden-rs",
+                    "bind": "/opt/portainer/Bitwarden-rs",
                     "container": "/config"
                 }
             ]
@@ -895,7 +974,7 @@
                     "container": "/podcast"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/Booksonic",
+                    "bind": "/opt/portainer/Booksonic",
                     "container": "/config"
                 }
             ]
@@ -1299,7 +1378,7 @@
                     "container": "/books"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/Calibre-web",
+                    "bind": "/opt/portainer/Calibre-web",
                     "container": "/config"
                 }
             ]
@@ -1392,7 +1471,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Cardigann",
+                    "bind": "/opt/portainer/Cardigann",
                     "container": "/config"
                 }
             ]
@@ -1426,7 +1505,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/changedetection",
+                    "bind": "/opt/portainer/changedetection",
                     "container": "/datastore"
                 }
             ]
@@ -1564,7 +1643,7 @@
                 {
                     "label": "TZ",
                     "name": "TZ",
-                    "set": "America/Chicago"
+                    "set": "Australia/Sydney"
                 }
             ],
             "image": "nmtan/chevereto:latest",
@@ -1614,7 +1693,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Chowdown",
+                    "bind": "/opt/portainer/Chowdown",
                     "container": "/config"
                 }
             ]
@@ -1853,7 +1932,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Code-Server",
+                    "bind": "/opt/portainer/Code-Server",
                     "container": "/config"
                 }
             ]
@@ -2252,7 +2331,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Dashmachine",
+                    "bind": "/opt/portainer/Dashmachine",
                     "container": "/dashmachine/dashmachine/user_data"
                 }
             ]
@@ -2427,7 +2506,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/DeeMix",
+                    "bind": "/opt/portainer/DeeMix",
                     "container": "/config"
                 },
                 {
@@ -2543,7 +2622,7 @@
                     "container": "/downloads"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/DelugeOpenVPN/config",
+                    "bind": "/opt/portainer/DelugeOpenVPN/config",
                     "container": "/config"
                 }
             ]
@@ -2763,7 +2842,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/DockerRegistry",
+                    "bind": "/opt/portainer/DockerRegistry",
                     "container": "/var/lib/registry"
                 }
             ]
@@ -2807,6 +2886,22 @@
                 }
             ],
             "restart_policy": "unless-stopped"
+        },
+        {
+            "categories": [
+                "Wiki",
+                "Knowledge Base"
+            ],
+            "description": "Documize Community is an open source, modern, self-hosted, enterprise-grade knowledge management solution.",
+            "logo": "",
+            "name": "documize",
+            "platform": "linux",
+            "repository": {
+                "stackfile": "Template/Stack/documize.yml",
+                "url": "https://github.com/xneo1/portainer_templates"
+            },
+            "title": "Documize",
+            "type": 3
         },
         {
             "type": 1,
@@ -3557,7 +3652,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/EETVPlexProxy",
+                    "bind": "/opt/portainer/EETVPlexProxy",
                     "container": "/config"
                 }
             ]
@@ -3567,7 +3662,7 @@
                 "Other",
                 "Tools"
             ],
-            "description": "Eclipse Mosquitto is an open source implementation of a server for versions 5, 3.1.1, and 3.1 of the MQTT protocol.\nYou will need to create /portainer/Files/AppData/Config/Mosquitto/config/mosquitto.conf and if needed your password file.\nHave a look on https://mosquitto.org/man/mosquitto_passwd-1.html",
+            "description": "Eclipse Mosquitto is an open source implementation of a server for versions 5, 3.1.1, and 3.1 of the MQTT protocol.\nYou will need to create /opt/portainer/Mosquitto/config/mosquitto.conf and if needed your password file.\nHave a look on https://mosquitto.org/man/mosquitto_passwd-1.html",
             "hostname": "rpi-mosquitto",
             "image": "eclipse-mosquitto:latest",
             "logo": "https://raw.githubusercontent.com/docker-library/docs/757578e3a44e5460a8a11d32a81776f8b74231a9/eclipse-mosquitto/logo.png",
@@ -3582,15 +3677,15 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Mosquitto/config",
+                    "bind": "/opt/portainer/Mosquitto/config",
                     "container": "/mosquitto/config"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/Mosquitto/data",
+                    "bind": "/opt/portainer/Mosquitto/data",
                     "container": "/mosquitto/data"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/Mosquitto/log",
+                    "bind": "/opt/portainer/Mosquitto/log",
                     "container": "/mosquitto/log"
                 }
             ]
@@ -3878,10 +3973,26 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/eufy-security-ws",
+                    "bind": "/opt/portainer/eufy-security-ws",
                     "container": "/data"
                 }
             ]
+        },
+        {
+            "categories": [
+                "Productivity",
+                "Drawing"
+            ],
+            "description": "Virtual whiteboard for sketching hand-drawn like diagrams. Collaborative and end-to-end encrypted.",
+            "logo": "https://github.com/excalidraw/excalidraw/raw/master/public/og-image-sm.png",
+            "name": "excalidraw",
+            "platform": "linux",
+            "repository": {
+                "stackfile": "Template/Stack/excalidraw.yml",
+                "url": "https://github.com/xneo1/portainer_templates"
+            },
+            "title": "Excalidraw",
+            "type": 3
         },
         {
             "type": 3,
@@ -4205,7 +4316,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/FileBrowser",
+                    "bind": "/opt/portainer/FileBrowser",
                     "container": "/config"
                 },
                 {
@@ -4419,7 +4530,7 @@
                     "name": "DOCKER_IMAGE"
                 },
                 {
-                    "default": "/portainer/Files/AppData/Config/FirefoxV2",
+                    "default": "/opt/portainer/FirefoxV2",
                     "label": "Volume Path",
                     "name": "VOLUME_PATH"
                 }
@@ -4475,7 +4586,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Flame/data",
+                    "bind": "/opt/portainer/Flame/data",
                     "container": "/app/data"
                 },
                 {
@@ -4501,7 +4612,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/flame-dashboard",
+                    "bind": "/opt/portainer/flame-dashboard",
                     "container": "/app/data"
                 }
             ]
@@ -4591,6 +4702,21 @@
             ]
         },
         {
+            "categories": [
+                "Downloaders"
+            ],
+            "description": "A docker image with qBittorrent and the Flood UI, also optional WireGuard VPN support.",
+            "logo": "https://hotio.dev/img/image-logos/flood.svg",
+            "name": "flood",
+            "platform": "linux",
+            "repository": {
+                "stackfile": "Template/Stack/flood.yml",
+                "url": "https://github.com/xneo1/portainer_templates"
+            },
+            "title": "Flood",
+            "type": 3
+        },
+        {
             "type": 1,
             "title": "Foldingathome",
             "name": "Foldingathome",
@@ -4672,7 +4798,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/foundryvtt",
+                    "bind": "/opt/portainer/foundryvtt",
                     "container": "/data"
                 }
             ]
@@ -4933,7 +5059,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Gitea",
+                    "bind": "/opt/portainer/Gitea",
                     "container": "/data"
                 },
                 {
@@ -4964,7 +5090,7 @@
                     "name": "USER_GID"
                 },
                 {
-                    "default": "America/New_York",
+                    "default": "Australia/Sydney",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -5029,6 +5155,36 @@
                     "container": "/var/opt/gitlab"
                 }
             ]
+        },
+        {
+            "categories": [
+                "Monitoring"
+            ],
+            "description": "Glances is an open-source system cross-platform monitoring tool. It allows real-time monitoring of various aspects of your system such as CPU, memory, disk, network usage etc.",
+            "logo": "https://raw.githubusercontent.com/nicolargo/glances/develop/docs/_static/glances-responsive-webdesign.png",
+            "name": "glances",
+            "platform": "linux",
+            "repository": {
+                "stackfile": "Template/Stack/glances.yml",
+                "url": "https://github.com/xneo1/portainer_templates"
+            },
+            "title": "Glances",
+            "type": 3
+        },
+        {
+            "categories": [
+                "Cloud"
+            ],
+            "description": "Gokapi is a lightweight server to share files, which expire after a set amount of downloads or days. It is similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files",
+            "logo": "https://noted.lol/content/images/2023/02/gokapi-self-hosted-main.png",
+            "name": "gokapi",
+            "platform": "linux",
+            "repository": {
+                "stackfile": "Template/Stack/gokapi.yml",
+                "url": "https://github.com/xneo1/portainer_templates"
+            },
+            "title": "Gokapi",
+            "type": 3
         },
         {
             "categories": [
@@ -5116,7 +5272,7 @@
             "description": "A simple server for sending and receiving messages",
             "env": [
                 {
-                    "default": "America/New_York",
+                    "default": "Australia/Sydney",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -5144,7 +5300,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/gotify",
+                    "bind": "/opt/portainer/gotify",
                     "container": "/app/data"
                 }
             ]
@@ -5278,7 +5434,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Guacamole",
+                    "bind": "/opt/portainer/Guacamole",
                     "container": "/config"
                 }
             ]
@@ -5328,7 +5484,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/HTPCmanager",
+                    "bind": "/opt/portainer/HTPCmanager",
                     "container": "/config"
                 }
             ]
@@ -5731,6 +5887,21 @@
             "restart_policy": "unless-stopped"
         },
         {
+            "categories": [
+                "Dashboard"
+            ],
+            "description": "Simplify the management of your server with Homarr - a sleek, modern dashboard that puts all of your apps and services at your fingertips.",
+            "logo": "https://homarr.dev/img/logo.svg",
+            "name": "homarr",
+            "platform": "linux",
+            "repository": {
+                "stackfile": "Template/Stack/homarr.yml",
+                "url": "https://github.com/xneo1/portainer_templates"
+            },
+            "title": "Homarr",
+            "type": 3
+        },
+        {
             "description": "Home Assistant is a free and open-source software for home automation that is designed to be the central control system for smart home devices with focus on local control and privacy.",
             "image": "homeassistant/home-assistant:latest",
             "logo": "https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/images/homeassistant.png",
@@ -5745,7 +5916,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/HomeAssistant/assets",
+                    "bind": "/opt/portainer/HomeAssistant/assets",
                     "container": "/config"
                 }
             ]
@@ -5836,7 +6007,7 @@
                     "name": "HOMEBRIDGE_CONFIG_UI_PORT"
                 },
                 {
-                    "default": "America/New_York",
+                    "default": "Australia/Sydney",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -5853,7 +6024,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/debian-homebridge",
+                    "bind": "/opt/portainer/debian-homebridge",
                     "container": "/homebridge"
                 }
             ]
@@ -5907,11 +6078,11 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Homer/assets",
+                    "bind": "/opt/portainer/Homer/assets",
                     "container": "/www/assets"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/Homer",
+                    "bind": "/opt/portainer/Homer",
                     "container": "/www/config.yml"
                 }
             ]
@@ -5993,7 +6164,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/huginn",
+                    "bind": "/opt/portainer/huginn",
                     "container": "/var/lib/mysql"
                 }
             ]
@@ -6011,6 +6182,22 @@
                 "url": "https://github.com/TheLustriVA/xneo1_portainer_templates"
             },
             "title": "I hate money",
+            "type": 3
+        },
+        {
+            "categories": [
+                "Photos",
+                "AI"
+            ],
+            "description": "Immich is a high performance self-hosted photo and video backup solution.",
+            "logo": "https://github.com/immich-app/immich/raw/main/design/immich-logo.svg",
+            "name": "immich",
+            "platform": "linux",
+            "repository": {
+                "stackfile": "Template/Stack/immich.yml",
+                "url": "https://github.com/xneo1/portainer_templates"
+            },
+            "title": "Immich",
             "type": 3
         },
         {
@@ -6121,7 +6308,7 @@
                 "Other",
                 "Tools"
             ],
-            "description": "InfluxDB is an open source time series database for recording metrics, events, and analytics. You will need to add /portainer/Files/AppData/Config/Influxdb/config/influxdb.conf",
+            "description": "InfluxDB is an open source time series database for recording metrics, events, and analytics. You will need to add /opt/portainer/Influxdb/config/influxdb.conf",
             "hostname": "rpi-influxdb1810",
             "image": "influxdb:1.8.10",
             "logo": "https://raw.githubusercontent.com/docker-library/docs/43d87118415bb75d7bb107683e79cd6d69186f67/influxdb/logo.png",
@@ -6136,11 +6323,11 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Influxdb/data",
+                    "bind": "/opt/portainer/Influxdb/data",
                     "container": "/var/lib/influxdb"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/Influxdb/config",
+                    "bind": "/opt/portainer/Influxdb/config",
                     "container": "/var/lib/influxdb"
                 }
             ]
@@ -6336,7 +6523,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/JDownloader",
+                    "bind": "/opt/portainer/JDownloader",
                     "container": "/opt/JDownloader/cfg"
                 },
                 {
@@ -7047,7 +7234,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Kodi",
+                    "bind": "/opt/portainer/Kodi",
                     "container": "/config"
                 }
             ]
@@ -7316,7 +7503,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/LetsEncrypt",
+                    "bind": "/opt/portainer/LetsEncrypt",
                     "container": "/config"
                 }
             ]
@@ -7388,7 +7575,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/LetsEncrypt",
+                    "bind": "/opt/portainer/LetsEncrypt",
                     "container": "/config"
                 }
             ]
@@ -7585,7 +7772,7 @@
             "volumes": [
                 {
                     "container": "/config",
-                    "bind": "/portainer/config/lidarr-extended"
+                    "bind": "/opt/portainer/lidarr-extended"
                 },
                 {
                     "container": "/downloads-lidarr-extended",
@@ -8035,7 +8222,7 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "America/New_York",
+                    "default": "Australia/Sydney",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -8161,15 +8348,15 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/MagicMirror2/config",
+                    "bind": "/opt/portainer/MagicMirror2/config",
                     "container": "/opt/magic_mirror/config"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/MagicMirror2/modules",
+                    "bind": "/opt/portainer/MagicMirror2/modules",
                     "container": "/opt/magic_mirror/modules"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/MagicMirror2/css/custom.css",
+                    "bind": "/opt/portainer/MagicMirror2/css/custom.css",
                     "container": "/opt/magic_mirror/css/custom.css"
                 },
                 {
@@ -8620,7 +8807,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/MeTube/Downloads",
+                    "bind": "/opt/portainer/MeTube/Downloads",
                     "container": "/downloads"
                 }
             ]
@@ -8643,7 +8830,7 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "America/New_York",
+                    "default": "Australia/Sydney",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -8701,7 +8888,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/mealie",
+                    "bind": "/opt/portainer/mealie",
                     "container": "/app/data"
                 }
             ]
@@ -8959,6 +9146,21 @@
         },
         {
             "categories": [
+                "Search"
+            ],
+            "description": "Meilisearch is a RESTful search API. It aims to be a ready-to-go solution for everyone who wants a fast and relevant search experience for their end-users",
+            "logo": "https://docs.meilisearch.com/logo.svg",
+            "name": "Meilisearch",
+            "platform": "linux",
+            "repository": {
+                "stackfile": "Template/Stack/meilisearch.yml",
+                "url": "https://github.com/xneo1/portainer_templates"
+            },
+            "title": "Meilisearch",
+            "type": 3
+        },
+        {
+            "categories": [
                 "Management Utility Server"
             ],
             "description": "Remote Management Server",
@@ -9067,7 +9269,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Minecraft-data",
+                    "bind": "/opt/portainer/Minecraft-data",
                     "container": "/data"
                 }
             ]
@@ -9272,7 +9474,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/monica",
+                    "bind": "/opt/portainer/monica",
                     "container": "/var/www/html/storage"
                 }
             ]
@@ -9628,7 +9830,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/nuts",
+                    "bind": "/opt/portainer/nuts",
                     "container": "/app"
                 }
             ]
@@ -9664,7 +9866,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Nzbhydra2",
+                    "bind": "/opt/portainer/Nzbhydra2",
                     "container": "/config"
                 },
                 {
@@ -9986,11 +10188,11 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/netdata/netdataconfig",
+                    "bind": "/opt/portainer/netdata/netdataconfig",
                     "container": "/etc/netdata"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/netdata/netdatalib",
+                    "bind": "/opt/portainer/netdata/netdatalib",
                     "container": "/var/lib/netdata"
                 },
                 {
@@ -10093,7 +10295,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/ncdata",
+                    "bind": "/opt/portainer/ncdata",
                     "container": "/data"
                 }
             ]
@@ -10223,11 +10425,11 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Nginx-Proxy/data",
+                    "bind": "/opt/portainer/Nginx-Proxy/data",
                     "container": "/data"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/Nginx-Proxy/letsencrypt",
+                    "bind": "/opt/portainer/Nginx-Proxy/letsencrypt",
                     "container": "/etc/letsencrypt"
                 }
             ]
@@ -10353,7 +10555,7 @@
                     "name": "NODE_RED_CREDENTIAL_SECRET"
                 },
                 {
-                    "default": "America/New_York",
+                    "default": "Australia/Sydney",
                     "label": "TZ",
                     "name": "TZ"
                 }
@@ -10403,7 +10605,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Nodered",
+                    "bind": "/opt/portainer/Nodered",
                     "container": "/data"
                 }
             ]
@@ -10583,7 +10785,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Omada",
+                    "bind": "/opt/portainer/Omada",
                     "container": "/config"
                 }
             ]
@@ -10749,7 +10951,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/OpenVPN-AS",
+                    "bind": "/opt/portainer/OpenVPN-AS",
                     "container": "/config"
                 }
             ]
@@ -10932,7 +11134,7 @@
                 {
                     "label": "TZ",
                     "name": "TZ",
-                    "set": "America/Chicago"
+                    "set": "Australia/Sydney"
                 }
             ],
             "image": "organizrtools/organizr:latest",
@@ -10979,10 +11181,42 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Organizr",
+                    "bind": "/opt/portainer/Organizr",
                     "container": "/config"
                 }
             ]
+        },
+        {
+            "categories": [
+                "Identity Management",
+                "Security"
+            ],
+            "description": "Ory Kratos with Oathkeeper (ORY Oathkeeper is an Identity & Access Proxy (IAP) and Access Control Decision API that authorizes HTTP requests based on sets of Access Rules.) ",
+            "logo": "https://raw.githubusercontent.com/ory/meta/master/static/banners/oathkeeper.svg",
+            "name": "Ory Kratos Oathkeeper",
+            "platform": "linux",
+            "repository": {
+                "stackfile": "Template/Stack/ory-kratos-oathkeeper.yml",
+                "url": "https://github.com/xneo1/portainer_templates"
+            },
+            "title": "Ory Kratos (Oathkeeper)",
+            "type": 3
+        },
+        {
+            "categories": [
+                "Identity Management",
+                "Access proxy"
+            ],
+            "description": "Ory Kratos with Oathkeeper is the developer-friendly, security-hardened and battle-test Identity, User Management and Authentication system for the Cloud.",
+            "logo": "https://raw.githubusercontent.com/ory/meta/master/static/banners/kratos.svg",
+            "name": "Ory Kratos",
+            "platform": "linux",
+            "repository": {
+                "stackfile": "Template/Stack/ory-kratos-standalone.yml",
+                "url": "https://github.com/xneo1/portainer_templates"
+            },
+            "title": "Ory Kratos (Standalone)",
+            "type": 3
         },
         {
             "type": 1,
@@ -11185,11 +11419,11 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/paperless/config",
+                    "bind": "/opt/portainer/paperless/config",
                     "container": "/config"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/paperless/data",
+                    "bind": "/opt/portainer/paperless/data",
                     "container": "/data"
                 }
             ]
@@ -11528,11 +11762,11 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/PiHole",
+                    "bind": "/opt/portainer/PiHole",
                     "container": "/etc/pihole"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/PiHole/DNS",
+                    "bind": "/opt/portainer/PiHole/DNS",
                     "container": "/etc/dnsmasq.d"
                 }
             ]
@@ -11560,11 +11794,11 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/PiHole_DoH-DoT",
+                    "bind": "/opt/portainer/PiHole_DoH-DoT",
                     "container": "/etc/pihole"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/PiHole_DoH-DoT/DNS",
+                    "bind": "/opt/portainer/PiHole_DoH-DoT/DNS",
                     "container": "/etc/dnsmasq.d"
                 }
             ]
@@ -11631,11 +11865,11 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/PiHole-Unbound",
+                    "bind": "/opt/portainer/PiHole-Unbound",
                     "container": "/etc/pihole"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/PiHole-Unbound/DNS",
+                    "bind": "/opt/portainer/PiHole-Unbound/DNS",
                     "container": "/etc/dnsmasq.d"
                 }
             ]
@@ -11669,7 +11903,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/pi.alert",
+                    "bind": "/opt/portainer/pi.alert",
                     "container": "/config"
                 }
             ]
@@ -11997,7 +12231,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/PlexRequests",
+                    "bind": "/opt/portainer/PlexRequests",
                     "container": "/config"
                 }
             ]
@@ -12228,7 +12462,7 @@
                     "container": "/srv/data"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/PrivateBin",
+                    "bind": "/opt/portainer/PrivateBin",
                     "container": "/srv/cfg"
                 }
             ]
@@ -12855,7 +13089,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Quassel-core",
+                    "bind": "/opt/portainer/Quassel-core",
                     "container": "/config"
                 }
             ]
@@ -13182,7 +13416,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/ReactiveResume",
+                    "bind": "/opt/portainer/ReactiveResume",
                     "container": "/usr/src/app"
                 }
             ]
@@ -13216,7 +13450,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Readarr",
+                    "bind": "/opt/portainer/Readarr",
                     "container": "/config"
                 },
                 {
@@ -13373,6 +13607,21 @@
             "restart_policy": "unless-stopped"
         },
         {
+            "categories": [
+                "Remote Control"
+            ],
+            "description": "Remotely is a remote control and remote scripting solution, built with .NET 6, Blazor, and SignalR Core.",
+            "logo": "",
+            "name": "Remotely",
+            "platform": "linux",
+            "repository": {
+                "stackfile": "Template/Stack/remotely.yml",
+                "url": "https://github.com/xneo1/portainer_templates"
+            },
+            "title": "Remotely",
+            "type": 3
+        },
+        {
             "type": 1,
             "title": "Requestrr",
             "name": "Requestrr",
@@ -13444,7 +13693,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Resilio-Sync",
+                    "bind": "/opt/portainer/Resilio-Sync",
                     "container": "/config"
                 },
                 {
@@ -13522,11 +13771,11 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/revealjs/docs/slides",
+                    "bind": "/opt/portainer/revealjs/docs/slides",
                     "container": "/reveal/docs/slides"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/revealjs/scripts/test",
+                    "bind": "/opt/portainer/revealjs/scripts/test",
                     "container": "/resources"
                 }
             ]
@@ -13544,6 +13793,21 @@
                 "url": "https://github.com/mycroftwilde/portainer_templates"
             },
             "title": "Rocket Chat",
+            "type": 3
+        },
+        {
+            "categories": [
+                "Remote Control"
+            ],
+            "description": "RPort is free remote access and remote management, now acquired by RealVNC",
+            "logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_634014ae8000cebecce8a571f9ea316f/cloudradar-gmbh-rport.png",
+            "name": "Rport",
+            "platform": "linux",
+            "repository": {
+                "stackfile": "Template/Stack/rport.yml",
+                "url": "https://github.com/xneo1/portainer_templates"
+            },
+            "title": "Rport",
             "type": 3
         },
         {
@@ -13593,6 +13857,21 @@
                 }
             ],
             "restart_policy": "unless-stopped"
+        },
+        {
+            "categories": [
+                "Remote Control"
+            ],
+            "description": "Rust Desk is an Open source virtual or remote desktop infrastructure for everyone!",
+            "logo": "https://images.sftcdn.net/images/t_app-logo-xl,f_auto,dpr_2/p/735e7f11-0f1e-492d-bfa4-4be6eead5179/3131069239/rustdesk-unnamed.png",
+            "name": "Rust Desk",
+            "platform": "linux",
+            "repository": {
+                "stackfile": "Template/Stack/rustdesk.yml",
+                "url": "https://github.com/xneo1/portainer_templates"
+            },
+            "title": "Rust Desk",
+            "type": 3
         },
         {
             "categories": [
@@ -13944,7 +14223,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/searxng",
+                    "bind": "/opt/portainer/searxng",
                     "container": "/etc/searxng"
                 }
             ]
@@ -14016,7 +14295,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Shiori",
+                    "bind": "/opt/portainer/Shiori",
                     "container": "/srv/shiori"
                 }
             ]
@@ -14321,7 +14600,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Snibox",
+                    "bind": "/opt/portainer/Snibox",
                     "container": "/app/db/database"
                 }
             ]
@@ -14436,7 +14715,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Snippet-box",
+                    "bind": "/opt/portainer/Snippet-box",
                     "container": "/app/data"
                 }
             ]
@@ -14550,7 +14829,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/speedtest-tracker",
+                    "bind": "/opt/portainer/speedtest-tracker",
                     "container": "/config"
                 }
             ]
@@ -14626,7 +14905,7 @@
             ],
             "logo": "https://dashy.to/img/dashy.png",
             "name": "Stash",
-            "note": "## Keep configs, scrapers, and plugins here. </p><p> - /portainer/Files/AppData/Config/stash:/root/.stash </p><p> ## Point this at your collection. </p><p> - ./data:/data </p><p> ## This is where your stash's metadata lives </p><p> - /portainer/Files/AppData/Config/stashmeta:/metadata </p><p> ## Any other cache content. </p><p> - /portainer/Files/AppData/Config/stashcache:/cache </p><p> ## Where to store generated content (screenshots,previews,transcodes,sprites) </p><p> - /portainer/Files/AppData/Config/stashgenerated:/generated",
+            "note": "## Keep configs, scrapers, and plugins here. </p><p> - /opt/portainer/stash:/root/.stash </p><p> ## Point this at your collection. </p><p> - ./data:/data </p><p> ## This is where your stash's metadata lives </p><p> - /opt/portainer/stashmeta:/metadata </p><p> ## Any other cache content. </p><p> - /opt/portainer/stashcache:/cache </p><p> ## Where to store generated content (screenshots,previews,transcodes,sprites) </p><p> - /opt/portainer/stashgenerated:/generated",
             "platform": "linux",
             "repository": {
                 "stackfile": "Template/Stack/stash.yml",
@@ -14652,7 +14931,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/statping",
+                    "bind": "/opt/portainer/statping",
                     "container": "/app"
                 }
             ]
@@ -14971,6 +15250,38 @@
             ]
         },
         {
+            "categories": [
+                "Productivity",
+                "DevTools"
+            ],
+            "description": "Tabby is an infinitely customizable cross-platform terminal app for local shells, serial, SSH and Telnet connections.",
+            "logo": "https://tabby.sh/32bf32ff6c87e8d18932.svg",
+            "name": "Tabby",
+            "platform": "linux",
+            "repository": {
+                "stackfile": "Template/Stack/tabby.yml",
+                "url": "https://github.com/xneo1/portainer_templates"
+            },
+            "title": "Tabby",
+            "type": 3
+        },
+        {
+            "categories": [
+                "Network",
+                "VPN"
+            ],
+            "description": "Tailscale lets you easily manage access to private resources, quickly SSH into devices on your network, and work securely from anywhere in the world.",
+            "logo": "https://raw.githubusercontent.com/xneo1/portainer_templates/master/Images/tailscale.jpg",
+            "name": "tailscale",
+            "platform": "linux",
+            "repository": {
+                "stackfile": "Template/Stack/tailscale.yml",
+                "url": "https://github.com/xneo1/portainer_templates"
+            },
+            "title": "Tailscale",
+            "type": 3
+        },
+        {
             "description": "Taisun is an application for a Docker enabled device with an emphasis on providing a web based interface for managing a single server. Taisun allows you to: - Deploy and manage web based virtual desktops. - Deploy Taisun specific stacks of applications - Browse available images on popular Docker repositories - Import a Docker project from any git repository and start developing on your choice of web based IDE or full Linux desktop - Spinup a developer container based on popular frameworks and work from a web based IDE - Single click remote server access to Taisun and your Docker applications",
             "image": "linuxserver/taisun:latest",
             "logo": "https://raw.githubusercontent.com/Taisun-Docker/taisun/master/public/favicon/apple-icon-180x180.png",
@@ -15007,7 +15318,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Tandoor",
+                    "bind": "/opt/portainer/Tandoor",
                     "container": "/config"
                 }
             ]
@@ -15178,7 +15489,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/TiddlyWiki",
+                    "bind": "/opt/portainer/TiddlyWiki",
                     "container": "/var/lib/tiddlywiki"
                 }
             ]
@@ -15212,10 +15523,27 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/tt-rss",
+                    "bind": "/opt/portainer/tt-rss",
                     "container": "/config"
                 }
             ]
+        },
+        {
+            "categories": [
+                "Development",
+                "Low Code",
+                "No code"
+            ],
+            "description": "Tooljet is an Open-source low-code application development platform for building and deploying business applications.",
+            "logo": "https://uploads-ssl.webflow.com/6266634263b9179f76b2236e/63aaa161e3b3be42ec50eb6f_Logomark.svg",
+            "name": "tooljet",
+            "platform": "linux",
+            "repository": {
+                "stackfile": "Template/Stack/tooljet.yml",
+                "url": "https://github.com/xneo1/portainer_templates"
+            },
+            "title": "Tooljet",
+            "type": 3
         },
         {
             "categories": [
@@ -15239,15 +15567,15 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/traefik/traefik.yml",
+                    "bind": "/opt/portainer/traefik/traefik.yml",
                     "container": "/traefik.yml"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/traefik/config.yml",
+                    "bind": "/opt/portainer/traefik/config.yml",
                     "container": "/config.yml"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/traefik/acme.json",
+                    "bind": "/opt/portainer/traefik/acme.json",
                     "container": "/acme.json"
                 },
                 {
@@ -15521,7 +15849,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/trilium-data",
+                    "bind": "/opt/portainer/trilium-data",
                     "container": "/home/node/trilium-data"
                 }
             ]
@@ -15801,7 +16129,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Unifi",
+                    "bind": "/opt/portainer/Unifi",
                     "container": "/config"
                 }
             ]
@@ -15853,11 +16181,11 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/UnifFiVideo/Recordings/",
+                    "bind": "/opt/portainer/UnifFiVideo/Recordings/",
                     "container": "/recordings"
                 },
                 {
-                    "bind": "/portainer/Files/AppData/Config/UniFiVideo/",
+                    "bind": "/opt/portainer/UniFiVideo/",
                     "container": "/config"
                 }
             ]
@@ -15927,6 +16255,21 @@
         },
         {
             "categories": [
+                "Network"
+            ],
+            "description": "UpSnap is a simple wake on lan app written with SvelteKit, Go, PocketBase and nmap.",
+            "logo": "https://github.com/seriousm4x/UpSnap/raw/master/frontend/static/favicon.png",
+            "name": "upsnap",
+            "platform": "linux",
+            "repository": {
+                "stackfile": "Template/Stack/upsnap.yml",
+                "url": "https://github.com/xneo1/portainer_templates"
+            },
+            "title": "Upsnap",
+            "type": 3
+        },
+        {
+            "categories": [
                 "Task Server"
             ],
             "description": "It is a self-hosted monitoring tool like Uptime Robot",
@@ -15942,7 +16285,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/UptimeKuma",
+                    "bind": "/opt/portainer/UptimeKuma",
                     "container": "/app/data"
                 }
             ]
@@ -16033,7 +16376,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Vaultwarden",
+                    "bind": "/opt/portainer/Vaultwarden",
                     "container": "/config"
                 }
             ]
@@ -16085,7 +16428,7 @@
                     "name": "PGID"
                 },
                 {
-                    "default": "America/New_York",
+                    "default": "Australia/Sydney",
                     "label": "TZ",
                     "name": "TZ"
                 },
@@ -16282,7 +16625,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/WebGrabPlus",
+                    "bind": "/opt/portainer/WebGrabPlus",
                     "container": "/config"
                 },
                 {
@@ -16445,7 +16788,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Whoogle",
+                    "bind": "/opt/portainer/Whoogle",
                     "container": "/config"
                 }
             ]
@@ -16515,7 +16858,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Win2000/zdrive",
+                    "bind": "/opt/portainer/Win2000/zdrive",
                     "container": "/mnt"
                 }
             ]
@@ -16715,7 +17058,7 @@
             "volumes": [
                 {
                     "container": "/data/database",
-                    "bind": "/portainer/Files/AppData/Config/wizarr/data"
+                    "bind": "/opt/portainer/wizarr/data"
                 }
             ],
             "env": [
@@ -16896,7 +17239,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/YTDLM",
+                    "bind": "/opt/portainer/YTDLM",
                     "container": "/app/appdata"
                 },
                 {
@@ -17043,7 +17386,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/Zusam",
+                    "bind": "/opt/portainer/Zusam",
                     "container": "/zusam/data"
                 }
             ]
@@ -17067,7 +17410,7 @@
                 {
                     "label": "TZ",
                     "name": "TZ",
-                    "set": "America/Chicago"
+                    "set": "Australia/Sydney"
                 }
             ],
             "image": "linuxserver/codiad:latest",
@@ -17220,7 +17563,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/geoEnergyData",
+                    "bind": "/opt/portainer/geoEnergyData",
                     "container": "/config"
                 }
             ]
@@ -17246,7 +17589,7 @@
                 {
                     "label": "TZ",
                     "name": "TZ",
-                    "set": "America/Chicago"
+                    "set": "Australia/Sydney"
                 }
             ],
             "image": "linuxserver/hydra2:latest",
@@ -17300,7 +17643,7 @@
                 {
                     "label": "TZ",
                     "name": "TZ",
-                    "set": "America/Chicago"
+                    "set": "Australia/Sydney"
                 }
             ],
             "image": "linuxserver/kodi-headless:latest",
@@ -17373,7 +17716,7 @@
                 {
                     "label": "TZ",
                     "name": "TZ",
-                    "set": "America/Chicago"
+                    "set": "Australia/Sydney"
                 }
             ],
             "image": "linuxserver/letsencrypt:latest",
@@ -17410,7 +17753,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/libreddit",
+                    "bind": "/opt/portainer/libreddit",
                     "container": "/config"
                 }
             ]
@@ -17439,7 +17782,7 @@
                 {
                     "label": "TZ",
                     "name": "TZ",
-                    "set": "America/Chicago"
+                    "set": "Australia/Sydney"
                 }
             ],
             "image": "linuxserver/libresonic:latest",
@@ -17499,7 +17842,7 @@
                 {
                     "label": "TZ",
                     "name": "TZ",
-                    "set": "America/Chicago"
+                    "set": "Australia/Sydney"
                 }
             ],
             "image": "linuxserver/musicbrainz:latest",
@@ -17539,7 +17882,7 @@
                 {
                     "label": "TZ",
                     "name": "TZ",
-                    "set": "America/Chicago"
+                    "set": "Australia/Sydney"
                 }
             ],
             "image": "linuxserver/mylar:latest",
@@ -17598,7 +17941,7 @@
             "type": 1,
             "volumes": [
                 {
-                    "bind": "/portainer/Files/AppData/Config/n8n",
+                    "bind": "/opt/portainer/n8n",
                     "container": "/home/node/.n8n"
                 }
             ]
@@ -17627,7 +17970,7 @@
                 {
                     "label": "TZ",
                     "name": "TZ",
-                    "set": "America/Chicago"
+                    "set": "Australia/Sydney"
                 }
             ],
             "image": "linuxserver/openvpn-as:latest",
@@ -17666,7 +18009,7 @@
                 {
                     "label": "TZ",
                     "name": "TZ",
-                    "set": "America/Chicago"
+                    "set": "Australia/Sydney"
                 }
             ],
             "image": "linuxserver/pydio:latest",
@@ -17705,7 +18048,7 @@
                 {
                     "label": "TZ",
                     "name": "TZ",
-                    "set": "America/Chicago"
+                    "set": "Australia/Sydney"
                 }
             ],
             "image": "linuxserver/rutorrent:latest",
